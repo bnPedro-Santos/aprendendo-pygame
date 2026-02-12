@@ -161,7 +161,7 @@ while True:
     aumenta_cobra(lista_cobra)
     
 
-
+    #
     tela.blit(texto_formatado, (450,40))
     pygame.display.update() #atualiza os quadros do jogo
 
